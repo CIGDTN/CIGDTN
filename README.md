@@ -49,28 +49,14 @@ Let's hear the results converted back to sounds:
 [Predicted output example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/f88014de-d2a8-4869-bf5c-f1fd1015e36b)
 
 
-
-Below some examples:
+##Comparison result
+The comparisons of raw bird audio, ground truth labeled denoised audio, and denoised audio of other models are shown in Fig.~\ref{Fig:res}. Additionally, our model is more resemblant to the labeled denoised signal. As a consequence, these benchmarks confirm that our method for audio denoising is effective, and our model enhances the audio-denoising capabilities of BirdSoundDenoising datasets.:
 
 > Example 1:
 
 <img src="docs/005.png" alt="audio denoising" title="audio denoising samples"/>
 
-> Example 2:
 
-<img src="docs/007.png" alt="audio denoising" title="audio denoising samples"/>
-
-> Example 3:
-
-<img src="docs/293.png" alt="audio denoising" title="audio denoising samples"/>
-
-> Example 4:
-
-<img src="docs/426.png" alt="audio denoising" title="audio denoising samples"/>
-
-> Example 5:
-
-<img src="docs/432.png" alt="audio denoising" title="audio denoising samples"/>
 
 
 ## License
