@@ -6,7 +6,7 @@
 ## Abstract
  The audio denoising technique has captured widespread attention in the deep neural network field. Recently, the audio denoising problem has been converted into an image generation task, and deep learning-based approaches have been applied to tackle this problem. However, its performance is still limited, leaving room for further improvement. In order to enhance audio denoising performance, this paper introduces a complex image-generative diffusion transformer that captures more information from the complex Fourier domain. We explore a novel diffusion transformer by integrating the transformer with a diffusion model. Our proposed model demonstrates the scalability of the transformer and expands the receptive field of sparse attention using attention diffusion. Our work is among the first to utilize diffusion transformers to deal with the image generation task for audio denoising. Extensive experiments on two benchmark datasets demonstrate that our proposed model outperforms SOTA models.
 
-<img src="photo/IMG.png" alt="sound" title="sound" />
+<img src="Overall.png" alt="sound" title="sound" />
 
 
 ## Samples
@@ -54,7 +54,7 @@ The comparisons of raw bird audio, ground truth labeled denoised audio, and deno
 
 > Example 1:
 
-<img src="docs/005.png" alt="audio denoising" title="audio denoising samples"/>
+<img src="supply.png" alt="audio denoising" title="audio denoising samples"/>
 
 
 
