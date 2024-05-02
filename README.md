@@ -19,9 +19,7 @@ Let's hear the results converted back to sounds:
 > 
 > Example 1:
 >
-> <source src=['https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/f5db5ddff685b97026621a1d58c67baf80580fde/audio/noisy_audio/p232_005.wav' type="audio/wav"]
-> 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f)
+<source src=['https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/f5db5ddff685b97026621a1d58c67baf80580fde/audio/noisy_audio/p232_005.wav' type="audio/wav"]
 
 [Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/d67c6af3-4c43-469f-8130-8c07b2f52486)
 
