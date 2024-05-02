@@ -18,6 +18,8 @@ Let's hear the results converted back to sounds:
 >
 > 
 > Example 1:
+>
+> <source src=['https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f' type="audio/wav"]
 > 
 [Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f)
 
